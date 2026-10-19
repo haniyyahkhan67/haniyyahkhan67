@@ -1,16 +1,107 @@
-## Hi there 👋
+# Hi, I'm Haniyyah Khan
 
-<!--
-**haniyyahkhan67/haniyyahkhan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Undergraduate | Data Analytics | Machine Learning | Predictive Modelling
 
-Here are some ideas to get you started:
+I'm a Data Science undergraduate at Dawood University of Engineering & Technology, Karachi, Pakistan. I'm interested in transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring datasets, identifying patterns, building interactive dashboards, and developing predictive models to solve data-driven problems.
+
+---
+
+## About Me
+
+- 🎓 Studying Data Science at Dawood University of Engineering & Technology.
+- 📊 Interested in Data Analytics, Business Intelligence, and Statistical Analysis.
+- 🤖 Exploring Machine Learning and Predictive Modelling.
+- 🐍 Working with Python and SQL for data analysis and problem-solving.
+- 📈 Building dashboards and visualizations to communicate insights effectively.
+- 💡 Continuously improving my skills through practical projects and hands-on learning.
+
+---
+
+## Technical Skills
+
+### Programming & Data Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### Data Visualization & Business Intelligence
+- Microsoft Excel
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+- Dashboard Development
+
+### Machine Learning & Modelling
+- Scikit-learn
+- Classification Models
+- Predictive Modelling
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation
+
+---
+
+## Experience
+
+**Data Analyst Intern — Pakistan Meteorological Department**  
+*August 2025*
+
+**Data Analyst Intern — Arch Technologies**  
+*June–July 2026*
+
+Developed practical exposure to data analysis, machine learning, and data visualization through internship and training experiences.
+
+---
+
+## Featured Projects
+
+### Customer Churn Prediction
+A machine learning project focused on predicting customer churn using data preprocessing, model development, and analytical techniques.
+
+### HR Analytics Dashboard
+An analytics project exploring workforce data and HR metrics through interactive visualizations.
+
+### Pakistan E-commerce Dashboard
+A data analytics project exploring e-commerce sales patterns and business performance.
+
+### Spotify SQL Analysis
+A SQL-based project exploring music-related data through queries and analytical questions.
+
+### Amazon Sales Analysis
+An Excel-based sales dashboard presenting key metrics and sales performance insights.
+
+### Machine Failure Detection
+A machine learning classification project using a Support Vector Machine (SVM) with an RBF kernel.
+
+---
+
+## Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Machine Learning & Predictive Modelling
+- Statistical Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Data-Driven Decision Making
+
+---
+
+## Connect With Me
+
+- **GitHub:** https://github.com/haniyyahkhan67
+- **LinkedIn:** https://www.linkedin.com/in/haniyyah-khan-2931b9332/
+- **Email:** haniyyahkhan2025@gmail.com
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
