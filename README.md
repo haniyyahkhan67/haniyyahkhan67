@@ -47,18 +47,6 @@ I enjoy exploring datasets, identifying patterns, building interactive dashboard
 
 ---
 
-## Experience
-
-**Data Analyst Intern — Pakistan Meteorological Department**  
-*August 2025*
-
-**Data Analyst Intern — Arch Technologies**  
-*June–July 2026*
-
-Developed practical exposure to data analysis, machine learning, and data visualization through internship and training experiences.
-
----
-
 ## Featured Projects
 
 ### Customer Churn Prediction
@@ -101,7 +89,6 @@ A machine learning classification project using a Support Vector Machine (SVM) w
 ---
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haniyyahkhan67&show_icons=true&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haniyyahkhan67&layout=compact&hide_border=true)
