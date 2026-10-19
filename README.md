@@ -89,6 +89,6 @@ A machine learning classification project using a Support Vector Machine (SVM) w
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haniyyahkhan67&show_icons=true&hide_border=true)
+## Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haniyyahkhan67&layout=compact&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haniyyahkhan67&theme=tokyo-night)](https://github.com/haniyyahkhan67)
