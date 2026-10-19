@@ -65,8 +65,6 @@ I'm a Data Science undergraduate at **Dawood University of Engineering & Technol
 
 ## Featured Projects
 
-Explore my data analytics, visualization, and SQL projects below.
-
 <div align="center">
 
 <a href="https://github.com/haniyyahkhan67/Amazon-Sales-Analysis-Tableau">
@@ -132,7 +130,16 @@ Explore my data analytics, visualization, and SQL projects below.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haniyyahkhan67&theme=tokyo-night)](https://github.com/haniyyahkhan67)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haniyyahkhan67/haniyyahkhan67/output/github-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/haniyyahkhan67/haniyyahkhan67/output/github-snake.svg" width="100%">
+</picture>
+
+<br/>
+
+<a href="https://github.com/haniyyahkhan67?tab=overview#contributions">
+  View my GitHub contribution calendar
+</a>
 
 </div>
 
