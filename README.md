@@ -3,21 +3,19 @@
 
 # Hi, I'm Haniyyah Khan
 
-<a href="https://github.com/haniyyahkhan67">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Data+Science+Undergraduate;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Data+Science+Undergraduate;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights)](https://github.com/haniyyahkhan67)
 
-<p>
-  <a href="https://github.com/haniyyahkhan67">
-    <img src="https://img.shields.io/badge/GitHub-haniyyahkhan67-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/haniyyah-khan-2931b9332/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:haniyyahkhan2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### Data Science Undergraduate | Data Analytics | Machine Learning | Predictive Modelling
+
+<a href="https://github.com/haniyyahkhan67">
+  <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/haniyyah-khan-2931b9332/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:haniyyahkhan2025@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" alt=""/>
 
@@ -29,9 +27,11 @@ I'm a Data Science undergraduate at **Dawood University of Engineering & Technol
 
 - Studying Data Science and strengthening my analytical skills.
 - Exploring data patterns, trends, and business insights.
-- Building dashboards and predictive models through practical projects.
+- Building dashboards and analytical projects.
 - Working with Python, SQL, Excel, Power BI, and Tableau.
-- Continuously learning through hands-on data projects.
+- Exploring machine learning and predictive modelling through practical projects.
+
+---
 
 ## Technical Skills
 
@@ -44,7 +44,7 @@ I'm a Data Science undergraduate at **Dawood University of Engineering & Technol
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-### Visualization & Business Intelligence
+### Data Visualization & Business Intelligence
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -55,96 +55,64 @@ I'm a Data Science undergraduate at **Dawood University of Engineering & Technol
 ### Machine Learning
 
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-6C63FF?style=for-the-badge" alt="Feature Engineering"/>
-<img src="https://img.shields.io/badge/Predictive_Modelling-00897B?style=for-the-badge" alt="Predictive Modelling"/>
+<img src="https://img.shields.io/badge/EDA-6C63FF?style=for-the-badge" alt="Exploratory Data Analysis"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-00897B?style=for-the-badge" alt="Feature Engineering"/>
+<img src="https://img.shields.io/badge/Predictive_Modelling-5C6BC0?style=for-the-badge" alt="Predictive Modelling"/>
 
 </div>
 
+---
+
 ## Featured Projects
 
-Explore my repositories for project notebooks, code, and analysis.
+Explore my data analytics, visualization, and SQL projects below.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### Customer Churn Prediction
+<a href="https://github.com/haniyyahkhan67/Amazon-Sales-Analysis-Tableau">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=Amazon-Sales-Analysis-Tableau&theme=tokyonight&hide_border=true" alt="Amazon Sales Analysis Tableau"/>
+</a>
+<a href="https://github.com/haniyyahkhan67/spotify-sql-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=spotify-sql-project&theme=tokyonight&hide_border=true" alt="Spotify SQL Project"/>
+</a>
 
-A machine learning project focused on predicting customer churn using data preprocessing and classification techniques.
+<a href="https://github.com/haniyyahkhan67/Python-Excel-Sales-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=Python-Excel-Sales-Analysis&theme=tokyonight&hide_border=true" alt="Python Excel Sales Analysis"/>
+</a>
+<a href="https://github.com/haniyyahkhan67/uber-trip-analysis-powerbi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=uber-trip-analysis-powerbi&theme=tokyonight&hide_border=true" alt="Uber Trip Analysis Power BI"/>
+</a>
 
-**Tools:** Python · Pandas · Scikit-learn
+<a href="https://github.com/haniyyahkhan67/End-to-end-banking-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=End-to-end-banking-analysis&theme=tokyonight&hide_border=true" alt="End-to-End Banking Analysis"/>
+</a>
+<a href="https://github.com/haniyyahkhan67/Pakistan-E-commerce-Sales-Performance-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=Pakistan-E-commerce-Sales-Performance-Dashboard&theme=tokyonight&hide_border=true" alt="Pakistan E-commerce Dashboard"/>
+</a>
 
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
+<a href="https://github.com/haniyyahkhan67/HR-Analytics-Dashboard-in-Power-BI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=HR-Analytics-Dashboard-in-Power-BI&theme=tokyonight&hide_border=true" alt="HR Analytics Dashboard"/>
+</a>
+<a href="https://github.com/haniyyahkhan67/netflix-sql-project-beginners">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haniyyahkhan67&repo=netflix-sql-project-beginners&theme=tokyonight&hide_border=true" alt="Netflix SQL Project"/>
+</a>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### HR Analytics Dashboard
+<p align="center">
+  <a href="https://github.com/haniyyahkhan67?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories"/>
+  </a>
+</p>
 
-Exploring workforce data and HR metrics through visualizations to support data-driven decisions.
-
-**Tools:** Power BI · Data Visualization
-
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Pakistan E-commerce Dashboard
-
-Analyzing e-commerce sales patterns and business performance through an interactive dashboard.
-
-**Tools:** Data Analysis · Dashboarding
-
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Spotify SQL Analysis
-
-Using SQL queries to explore music-related data and answer analytical questions.
-
-**Tools:** SQL · Data Analysis
-
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Amazon Sales Analysis
-
-An Excel-based dashboard presenting sales performance and key business metrics.
-
-**Tools:** Excel · Data Visualization
-
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Machine Failure Detection
-
-A classification project exploring machine failure risk using a Support Vector Machine with an RBF kernel.
-
-**Tools:** Python · Scikit-learn · SVM
-
-<a href="https://github.com/haniyyahkhan67?tab=repositories">View repositories ↗</a>
-
-</td>
-</tr>
-</table>
+---
 
 ## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/haniyyahkhan67">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haniyyahkhan67&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haniyyahkhan67&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/haniyyahkhan67">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniyyahkhan67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
@@ -158,15 +126,17 @@ A classification project exploring machine failure risk using a Support Vector M
 
 </div>
 
+---
+
 ## Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/haniyyahkhan67">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haniyyahkhan67&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-</a>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haniyyahkhan67&theme=tokyo-night)](https://github.com/haniyyahkhan67)
 
 </div>
+
+---
 
 ## Areas of Interest
 
@@ -176,6 +146,8 @@ A classification project exploring machine failure risk using a Support Vector M
 - Machine Learning & Predictive Modelling
 - Data Visualization
 - Data-Driven Decision Making
+
+---
 
 ## Let's Connect
 
@@ -193,7 +165,7 @@ A classification project exploring machine failure risk using a Support Vector M
 
 <br/><br/>
 
-*Thanks for visiting my profile!*
+Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer banner"/>
 
